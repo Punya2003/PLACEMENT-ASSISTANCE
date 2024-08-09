@@ -1,0 +1,7 @@
+{
+    "require": {
+      "smalot/pdfparser": "^0.16.1",
+      "voku/portable-utf8": "^6.0"
+    }
+  }
+  

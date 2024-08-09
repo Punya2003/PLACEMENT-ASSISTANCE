@@ -1,0 +1,27 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    
+}
+
+.site-footer {
+    background: #333;
+    border-radius: 10px;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+
+.social-media a {
+    margin: 0 10px;
+}
+
+.social-media img {
+    height: 30px;
+    width: 30px;
+}
+
+.general-info p {
+    margin: 5px 0;
+}
